@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Core\\Desktop\\cpprepo_learn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87B1F44E-704D-9204-0BE1-2A7911FE9FC4}|cpp_learn.vcxproj|C:\\Users\\Core\\Desktop\\cpprepo_learn\\oop_learn\\C1_Concept.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87B1F44E-704D-9204-0BE1-2A7911FE9FC4}|cpp_learn.vcxproj|solutionrelative:oop_learn\\C1_Concept.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "C1_Concept.cpp",
+              "DocumentMoniker": "C:\\Users\\Core\\Desktop\\cpprepo_learn\\OOP_learn\\C1_Concept.cpp",
+              "RelativeDocumentMoniker": "OOP_learn\\C1_Concept.cpp",
+              "ToolTip": "C:\\Users\\Core\\Desktop\\cpprepo_learn\\OOP_learn\\C1_Concept.cpp*",
+              "RelativeToolTip": "OOP_learn\\C1_Concept.cpp*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-14T07:42:21.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
