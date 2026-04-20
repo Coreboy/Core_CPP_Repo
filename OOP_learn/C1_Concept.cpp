@@ -11,8 +11,8 @@ private:
 	int _price;
 
 public:
-	MyGoods(char *p1, int num1, int num2): _ID(p1), _count(num1), _price(num2) {}
-	~MyGoods() {}
+	MyGoods(){}
+	~MyGoods(){}
 	void setName(MyGoods* pointer, char * temp_string){ strncpy(pointer->_ID, temp_string, ID_LENGTH);}
 	void setPrice(MyGoods* pointer, int temp_num) { pointer->_price = temp_num; }
 	void setCount(); // static member func

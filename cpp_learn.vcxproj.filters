@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="oop_learn\C1_Concept.cpp">
+    <ClCompile Include="C2_ObjPointer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C3_Constructor_Destructor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C1_Concept.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

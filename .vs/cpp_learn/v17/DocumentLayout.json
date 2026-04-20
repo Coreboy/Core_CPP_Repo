@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Core\\Desktop\\cpprepo_learn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87B1F44E-704D-9204-0BE1-2A7911FE9FC4}|cpp_learn.vcxproj|C:\\Users\\Core\\Desktop\\cpprepo_learn\\oop_learn\\C1_Concept.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{87B1F44E-704D-9204-0BE1-2A7911FE9FC4}|cpp_learn.vcxproj|solutionrelative:oop_learn\\C1_Concept.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{87B1F44E-704D-9204-0BE1-2A7911FE9FC4}|cpp_learn.vcxproj|C:\\Users\\Core\\Desktop\\cpprepo_learn\\C3_Constructor_Destructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87B1F44E-704D-9204-0BE1-2A7911FE9FC4}|cpp_learn.vcxproj|solutionrelative:C3_Constructor_Destructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B1F44E-704D-9204-0BE1-2A7911FE9FC4}|cpp_learn.vcxproj|C:\\Users\\Core\\Desktop\\cpprepo_learn\\C2_ObjPointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87B1F44E-704D-9204-0BE1-2A7911FE9FC4}|cpp_learn.vcxproj|solutionrelative:C2_ObjPointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "C1_Concept.cpp",
-              "DocumentMoniker": "C:\\Users\\Core\\Desktop\\cpprepo_learn\\OOP_learn\\C1_Concept.cpp",
-              "RelativeDocumentMoniker": "OOP_learn\\C1_Concept.cpp",
-              "ToolTip": "C:\\Users\\Core\\Desktop\\cpprepo_learn\\OOP_learn\\C1_Concept.cpp*",
-              "RelativeToolTip": "OOP_learn\\C1_Concept.cpp*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Title": "C3_Constructor_Destructor.cpp",
+              "DocumentMoniker": "C:\\Users\\Core\\Desktop\\cpprepo_learn\\C3_Constructor_Destructor.cpp",
+              "RelativeDocumentMoniker": "C3_Constructor_Destructor.cpp",
+              "ToolTip": "C:\\Users\\Core\\Desktop\\cpprepo_learn\\C3_Constructor_Destructor.cpp",
+              "RelativeToolTip": "C3_Constructor_Destructor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-14T07:42:21.516Z",
+              "WhenOpened": "2026-04-17T16:53:22.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "C2_ObjPointer.cpp",
+              "DocumentMoniker": "C:\\Users\\Core\\Desktop\\cpprepo_learn\\C2_ObjPointer.cpp",
+              "RelativeDocumentMoniker": "C2_ObjPointer.cpp",
+              "ToolTip": "C:\\Users\\Core\\Desktop\\cpprepo_learn\\C2_ObjPointer.cpp",
+              "RelativeToolTip": "C2_ObjPointer.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-17T16:46:14.475Z",
               "EditorCaption": ""
             }
           ]
