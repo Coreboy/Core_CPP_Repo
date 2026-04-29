@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Core\\Desktop\\cpprepo_learn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87B1F44E-704D-9204-0BE1-2A7911FE9FC4}|cpp_learn.vcxproj|C:\\Users\\Core\\Desktop\\cpprepo_learn\\C2_ObjPointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{87B1F44E-704D-9204-0BE1-2A7911FE9FC4}|cpp_learn.vcxproj|solutionrelative:C2_ObjPointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{87B1F44E-704D-9204-0BE1-2A7911FE9FC4}|cpp_learn.vcxproj|C:\\Users\\Core\\Desktop\\cpprepo_learn\\C6_CLassTemplate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87B1F44E-704D-9204-0BE1-2A7911FE9FC4}|cpp_learn.vcxproj|solutionrelative:C6_CLassTemplate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87B1F44E-704D-9204-0BE1-2A7911FE9FC4}|cpp_learn.vcxproj|C:\\Users\\Core\\Desktop\\cpprepo_learn\\C3_Constructor_Destructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{87B1F44E-704D-9204-0BE1-2A7911FE9FC4}|cpp_learn.vcxproj|solutionrelative:C3_Constructor_Destructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B1F44E-704D-9204-0BE1-2A7911FE9FC4}|cpp_learn.vcxproj|C:\\Users\\Core\\Desktop\\cpprepo_learn\\C1_Concept.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87B1F44E-704D-9204-0BE1-2A7911FE9FC4}|cpp_learn.vcxproj|solutionrelative:C1_Concept.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "C2_ObjPointer.cpp",
-              "DocumentMoniker": "C:\\Users\\Core\\Desktop\\cpprepo_learn\\C2_ObjPointer.cpp",
-              "RelativeDocumentMoniker": "C2_ObjPointer.cpp",
-              "ToolTip": "C:\\Users\\Core\\Desktop\\cpprepo_learn\\C2_ObjPointer.cpp",
-              "RelativeToolTip": "C2_ObjPointer.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Title": "C6_CLassTemplate.cpp",
+              "DocumentMoniker": "C:\\Users\\Core\\Desktop\\cpprepo_learn\\C6_CLassTemplate.cpp",
+              "RelativeDocumentMoniker": "C6_CLassTemplate.cpp",
+              "ToolTip": "C:\\Users\\Core\\Desktop\\cpprepo_learn\\C6_CLassTemplate.cpp",
+              "RelativeToolTip": "C6_CLassTemplate.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-17T16:46:14.475Z",
+              "WhenOpened": "2026-04-26T12:15:54.067Z",
               "EditorCaption": ""
             },
             {
@@ -41,10 +45,21 @@
               "RelativeDocumentMoniker": "C3_Constructor_Destructor.cpp",
               "ToolTip": "C:\\Users\\Core\\Desktop\\cpprepo_learn\\C3_Constructor_Destructor.cpp",
               "RelativeToolTip": "C3_Constructor_Destructor.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAEoAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-17T16:14:24.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T03:57:47.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "C1_Concept.cpp",
+              "DocumentMoniker": "C:\\Users\\Core\\Desktop\\cpprepo_learn\\C1_Concept.cpp",
+              "RelativeDocumentMoniker": "C1_Concept.cpp",
+              "ToolTip": "C:\\Users\\Core\\Desktop\\cpprepo_learn\\C1_Concept.cpp",
+              "RelativeToolTip": "C1_Concept.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-27T03:57:47.079Z"
             }
           ]
         }

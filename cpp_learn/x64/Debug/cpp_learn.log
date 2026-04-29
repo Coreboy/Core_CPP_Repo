@@ -1,6 +1,8 @@
 ﻿  C1_Concept.cpp
   C2_ObjPointer.cpp
-C:\Users\Core\Desktop\cpprepo_learn\C2_ObjPointer.cpp(17,54): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Core\Desktop\cpprepo_learn\C2_ObjPointer.cpp(40,2): error C2100: 无法取消引用类型为“void”的操作数
   C3_Constructor_Destructor.cpp
+  C4_OOP_APP.cpp
+  C5_Template.cpp
+  C6_CLassTemplate.cpp
   正在生成代码...
+  cpp_learn.vcxproj -> C:\Users\Core\Desktop\cpprepo_learn\x64\Debug\cpp_learn.exe

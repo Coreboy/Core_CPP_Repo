@@ -3,7 +3,7 @@
 using namespace std;
 
 // OOP实现一个顺序栈
-// 顺序栈使用顺序存储结构实现的栈结构
+// 顺序栈: 使用顺序存储结构实现的栈结构
 
 class SeqStack {
 public:
@@ -66,7 +66,10 @@ int main() {
 	SeqStack my_stack(5);
 	for (int i = 0; i < 15; ++i) 
 	{
+		// 填入随机数
 		my_stack.push(rand() % 100);
+		
+		// 打印最顶层
 		cout << my_stack.top() << endl;
 	}
 
