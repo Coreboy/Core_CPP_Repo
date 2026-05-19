@@ -86,7 +86,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
-      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions);C6</PreprocessorDefinitions>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions);C17</PreprocessorDefinitions>
       <WarningLevel>Level3</WarningLevel>
     </ClCompile>
     <Link>
@@ -119,12 +119,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="C10_newdelete.cpp" />
+    <ClCompile Include="C11_inheritance.cpp" />
+    <ClCompile Include="C12_vbptr_vbtable.cpp" />
+    <ClCompile Include="C13_iterator.cpp" />
+    <ClCompile Include="C14_container_adpatator.cpp" />
+    <ClCompile Include="C15_func_obj.cpp" />
+    <ClCompile Include="C16_Container.cpp" />
+    <ClCompile Include="C17_algo.cpp" />
     <ClCompile Include="C1_Concept.cpp" />
     <ClCompile Include="C2_ObjPointer.cpp" />
     <ClCompile Include="C3_Constructor_Destructor.cpp" />
     <ClCompile Include="C4_OOP_APP.cpp" />
     <ClCompile Include="C5_Template.cpp" />
     <ClCompile Include="C6_CLassTemplate.cpp" />
+    <ClCompile Include="C7_OperatorOverload.cpp" />
+    <ClCompile Include="C8_String.cpp" />
+    <ClCompile Include="C9_iterator_invalid.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />

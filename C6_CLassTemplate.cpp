@@ -1,6 +1,7 @@
 ﻿#ifdef C6
 #include <iostream>
 using namespace std;
+
 #if 1
 template<typename T>
 class Allocator 
@@ -80,8 +81,28 @@ public:
 	{
 		return _last == _end;
 	}
+	
+	int size() { return _last - _first; }
 
+	T& operator[](int index) 
+	{
+		if (index < 0 || index > size()) throw "OutOfRangeException";
+		return _first[index];
+	}
 
+	// 迭代器一般实现成容器的嵌套类型
+	class iterator
+	{
+	public:
+		iterator(T* _rhs) { _p = _rhs; }
+		bool operator!=(iterator& rhs) { return _p != rhs._p; }
+		void operator++(){ ++_p; }
+	private:
+		T* _p;
+	};
+
+	iterator* begin() { return _first; }
+	iterator* end() { return _last; }
 
 private:
 	T* _first;			// 指向数组的起始位置
@@ -182,10 +203,22 @@ inline void vector<T, Alloc>::pop_back()
 
 int main() 
 {
-	 
+	vector<int> m_vec;
+	for (int i = 0; i < 100; ++i) 
+	{
+		m_vec.push_back(rand() % 100 + 1);
+	}
+	
+	auto it = m_vec.begin();
+	for (; it != m_vec.end(); ++it) 
+	{
+		// if (*it % 2 == 0) { m_vec.erase(it); break; }
+	}
+
 	return 0;
 }
 
 #endif
+
 #endif
 
