@@ -76,7 +76,6 @@ public:
 		return _first == _last;
 	}
 
-
 	bool isFull()
 	{
 		return _last == _end;
